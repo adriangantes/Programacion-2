@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/UDC/107226/linux/FIC_BOX/PROII/P0/rational_struct.c
+rational_struct.h
+/home/UDC/107226/linux/FIC_BOX/PROII/P0/rational_struct.h
+
+/home/UDC/107226/linux/FIC_BOX/PROII/P0/rational_struct.h
+

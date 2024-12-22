@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Rational_struct.dir/main.c.o CMakeFiles/Rational_struct.dir/rational_struct.c.o  -o Rational_struct 

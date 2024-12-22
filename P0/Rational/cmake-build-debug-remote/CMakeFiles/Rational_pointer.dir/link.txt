@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Rational_pointer.dir/main.c.o  -o Rational_pointer 
