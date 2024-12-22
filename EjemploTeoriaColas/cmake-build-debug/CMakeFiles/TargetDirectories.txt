@@ -1,0 +1,5 @@
+D:/Pro/PRO 2/EjemploTeoriaColas/cmake-build-debug/CMakeFiles/Colas_punteros.dir
+D:/Pro/PRO 2/EjemploTeoriaColas/cmake-build-debug/CMakeFiles/Colas_arrays.dir
+D:/Pro/PRO 2/EjemploTeoriaColas/cmake-build-debug/CMakeFiles/Colas_prioridad.dir
+D:/Pro/PRO 2/EjemploTeoriaColas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Pro/PRO 2/EjemploTeoriaColas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
