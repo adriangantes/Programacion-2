@@ -1,0 +1,5 @@
+D:/Pro/PRO 2/P2/cmake-build-debug/CMakeFiles/test_participant_list.dir
+D:/Pro/PRO 2/P2/cmake-build-debug/CMakeFiles/test_jury_list.dir
+D:/Pro/PRO 2/P2/cmake-build-debug/CMakeFiles/main.dir
+D:/Pro/PRO 2/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Pro/PRO 2/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
