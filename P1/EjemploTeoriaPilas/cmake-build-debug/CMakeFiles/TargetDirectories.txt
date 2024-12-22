@@ -1,0 +1,4 @@
+D:/Pro/PRO 2/EjemploTeoriaPilas/cmake-build-debug/CMakeFiles/Pilas_arrays.dir
+D:/Pro/PRO 2/EjemploTeoriaPilas/cmake-build-debug/CMakeFiles/Pilas_punteros.dir
+D:/Pro/PRO 2/EjemploTeoriaPilas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Pro/PRO 2/EjemploTeoriaPilas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
